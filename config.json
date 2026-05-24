@@ -1,0 +1,8 @@
+{
+    "name": "userhandler-service",
+    "version": "1.0.91",
+    "private": false,
+    "environment": "production",
+    "build_id": 953,
+    "allow_public_access": true
+}
